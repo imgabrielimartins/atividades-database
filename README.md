@@ -6,23 +6,9 @@ Este repositório contém meus estudos e resoluções de exercícios práticos e
 
 ## 🎯 Objetivo de Estudo
 
-* Dominar comandos essenciais de consulta (`SELECT`, `WHERE`, `JOIN`).
+* Dominar comandos essenciais de consulta (`SELECT`, `WHERE`,).
 * Praticar a modelagem de dados (Criação de tabelas, Relacionamentos).
 * Compreender e aplicar Chaves Primárias (`PRIMARY KEY`) e Chaves Estrangeiras (`FOREIGN KEY`).
-* Utilizar funções de agregação (`AVG`, `COUNT`, `SUM`, `GROUP BY`).
-
----
-
-## 📂 Estrutura do Repositório
-
-O repositório é organizado por **projetos/tópicos** de estudo.
-
-| Pasta | Descrição | Status |
-| :--- | :--- | :--- |
-| `01_RH_Funcionarios` | Scripts para criação e manipulação das tabelas de **Colaboradores e Departamentos** (Projeto inicial). | ✅ Concluído |
-| `02_Sistema_Escolar` | Scripts para criação e consultas em tabelas de **Estudantes e Turmas**. | ⚙️ Em Andamento |
-| `03_Livraria_Online` | Scripts para tabelas de **Livros, Autores e Gêneros**. | ⏳ Planejado |
-| `99_Consultas_Avancadas` | Arquivos com comandos SQL complexos (`VIEWS`, `INDEXES`, `STORED PROCEDURES`). | ⏳ Planejado |
 
 ---
 
