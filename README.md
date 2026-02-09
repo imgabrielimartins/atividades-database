@@ -1,6 +1,6 @@
-# 💾 Banco de Dados SQL: Repositório de Exercícios
+# 💾 Banco de Dados MySQL: Repositório de Exercícios
 
-Este repositório contém meus estudos e resoluções de exercícios práticos em **SQL (MySQL)**. O objetivo é consolidar o aprendizado em modelagem de dados, DDL (Data Definition Language) e DML (Data Manipulation Language).
+Este repositório contém meus estudos e resoluções de exercícios práticos em MySQL**. O objetivo é consolidar o aprendizado em modelagem de dados, DDL (Data Definition Language) e DML (Data Manipulation Language).
 
 ---
 
